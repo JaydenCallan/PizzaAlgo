@@ -1,3 +1,5 @@
 1) Decide the pizza place to order from
+1a) Examine nearby locations
+2a) Pick the best option
 2) Choose a pizza
 3) Order your pizza
