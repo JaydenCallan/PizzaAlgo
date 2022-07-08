@@ -1,5 +1,7 @@
 1) Decide the pizza place to order from
 1a) Examine nearby locations
-2a) Pick the best option
+1b) Pick the best option
 2) Choose a pizza
+2a) Deep dish or normal
+2b) Pick toppings
 3) Order your pizza
